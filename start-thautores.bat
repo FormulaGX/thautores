@@ -1,0 +1,1 @@
+pwsh.exe -command "&{.\thautores.ps1; Start-Touhou -Game '.\Touhou06.exe' -EditOnly 0}"
